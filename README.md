@@ -6,7 +6,7 @@ Examples on the iris dataset:
   model evaluation
 
 data download:
-https://weka.sourceforge.io/doc.stable/
+https://storm.cis.fordham.edu/~gweiss/data-mining/datasets.html
 
 weka classes documentation:
 https://weka.sourceforge.io/doc.stable/
