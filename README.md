@@ -1,6 +1,6 @@
 # JavaWeka
 Simple Machine Learning from Java source code using Weka.
-Examples on the Iris dataset: data preprocessing, regression/classification, model evaluation
+Examples on the Iris dataset: data preprocessing, variable selection, regression/classification, model evaluation...
 
 data download:
 https://storm.cis.fordham.edu/~gweiss/data-mining/datasets.html
