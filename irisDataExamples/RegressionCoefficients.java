@@ -21,7 +21,7 @@ import weka.core.Instances;
 import weka.core.converters.ConverterUtils.DataSource;
 
 
-public class Regression {
+public class RegressionCoefficients {
 	public static void main(String[] args) throws Exception {
 		
 		//load dataset

@@ -34,7 +34,7 @@ import weka.core.Instance;
 import weka.core.Instances;
 import weka.core.converters.ConverterUtils.DataSource;
 
-public class Classification {
+public class ClassificationPrediction {
 	public static void main(String[] args) throws Exception {
 		
 		//load dataset
